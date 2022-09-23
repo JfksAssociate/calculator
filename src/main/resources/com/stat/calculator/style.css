@@ -1,0 +1,17 @@
+VBox {
+    -fx-background-color: black;
+}
+Button {
+    -fx-background-color: #5b5b5b;
+    -fx-text-fill: white;
+}
+Button:hover {
+    -fx-background-color: #a9a9a9;
+}
+MenuBar {
+    -fx-background-color: black;
+    -fx-text-fill: orange;
+}
+.screen {
+    -fx-text-fill: white;
+}
